@@ -1,5 +1,5 @@
 This is a list of the licenses of all dependencies used directly by toy and mud.
-All these licenses are GPL v3.0 compatible. If I am mistaken about any of these please let me know.
+All  these licenses are GPL v3.0 compatible. If I am mistaken about any of these please let me know.
 
 - base64           Public Domain
 - bgfx             BSD-2-Clause
