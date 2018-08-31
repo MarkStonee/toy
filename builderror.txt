@@ -1,0 +1,5 @@
+
+HIAError.h 
+
+pPackageHeader->nErrorCode = BUILD_ERR_CODE(HIA_M_VIDEO, HIA_S_IED, nRet); 
+BUILD_ERR_CODE(HIA_M_HANSHUO, HIA_S_ISA, HIA_E_CREATE);
